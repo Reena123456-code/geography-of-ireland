@@ -10,3 +10,23 @@ p {
     font-size: 50px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+h2 {
+    color: brown;
+}
+
+h3 {
+    color: maroon;
+}
+
+h4 {
+    color: green;
+}
+
+h5 {
+    color: purple;
+}
+
+h6 {
+    color: pink;
+}
